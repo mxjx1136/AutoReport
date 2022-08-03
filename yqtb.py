@@ -3,8 +3,8 @@ import json
 import datetime
 # from pprint import pprint
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4395.0 Safari/537.36',
-    'Accept': 'application/json, text/javascript, */*; q=0.01',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 10; POT-AL00 Build/HUAWEIPOT-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045709 Mobile Safari/537.36;cplus_app',
+    'Accept': 'image/webp,image/tpg,image/*,*/*;q=0.8',
     'Content-Type': 'application/json',
     'X-Requested-With': 'XMLHttpRequest'
 }
