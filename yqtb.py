@@ -9,8 +9,8 @@ headers = {
     'X-Requested-With': 'XMLHttpRequest'
 }
 
-root_url = 'https://yqtb.sut.edu.cn'
-login_url = 'https://yqtb.sut.edu.cn/login'
+root_url = 'http://pubinfo.sdwcvc.cn'
+login_url = http://pubinfo.sdwcvc.cn/index.jsp'
 
 def login(username, password):
     login_data = json.dumps( {'user_account': username, 'user_password': password})
